@@ -1,2 +1,2 @@
 # Capture_camera
-Capture Camera through ython
+Capture Camera through Python
